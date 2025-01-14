@@ -1,0 +1,22 @@
+.my-card{
+    margin: 0 auto;
+    padding: 20px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #c75a3e;
+    border-bottom: 12px solid #d8cefe;
+    font-family:  Cochin, Georgia, Times,  serif;
+    border: 10px solid #d8cefe;
+    border-top-right-radius: 100px;
+}
+.img-me{
+    width: 150px;
+    border-radius: 30%;
+}
+.data{
+    margin-top: 15px;
+    display: block;
+    text-align: center;
+    color: #370617;
+}
